@@ -4,7 +4,7 @@
 Command-line database management system built using Bash and SQL*Plus to manage a soccer league database. The system supports table creation, deletion, population, and querying against an Oracle database instance. The schema is fully normalized with enforced primary and foreign key constraints.
 
 ## Original Environment
-This project was originally developed and tested in a university Unix environment using Oracle SQL*Plus and a remote Oracle database instance. Some environment-specific functionality, including the original authentication/menu flow tied to that setup, may require adaptation for local execution after graduation.
+This project was originally developed and tested in a university Unix environment using Oracle SQL*Plus and a remote Oracle database instance. Due to the loss of post-graduation access to the school server, the original deployment environment is no longer available. This repository preserves the schema design, Bash automation, and query logic used in the project.
 
 ## Technologies Used
 - Oracle SQL
