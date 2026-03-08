@@ -2,9 +2,9 @@
 #!/bin/sh
 
 # Oracle Database connection information
-USER="akward"
-PASSWORD="05032458"
-CONNECTION_STRING="(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(Host=oracle.scs.ryerson.ca)(Port=1521))(CONNECT_DATA=(SID=orcl)))"
+USER="your_username"
+PASSWORD="your_password"
+CONNECTION_STRING="your_connection_string"
 
 echo "================================================================="
 echo "| Oracle All Inclusive Tool
