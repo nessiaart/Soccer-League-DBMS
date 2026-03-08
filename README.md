@@ -35,5 +35,7 @@ The CLI menu supports:
 
 ## Contributors
 Vanessa Entonu
+
 Alexia Ward
+
 Vlad Scraba
